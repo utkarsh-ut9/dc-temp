@@ -1,4 +1,4 @@
-![](https://komarev.com/ghpvc/?username=utkarsh-ut9)
+![](https://komarev.com/ghpvc/?username=utkarsh-ut9&color=brightgreen&style=for-the-badge&label=Visitors)
 
 !!! ONLY Prac 1 to 8 & 14 !!!
 !!! RUN server files first then client files !!!
