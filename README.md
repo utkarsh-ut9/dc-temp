@@ -1,4 +1,7 @@
-!!! ONLY Prac 1 to 8 !!!
+![](https://komarev.com/ghpvc/?username=utkarsh-ut9)
+
+!!! ONLY Prac 1 to 8 & 14 !!!
+!!! RUN server files first then client files !!!
 
 Implement a Client/server using RPC/RMI for checking entered number is prime or not
 
@@ -18,4 +21,5 @@ Implement of multi thread application
 
 Implement a Load Balancing Algorithm.
 
-!!! RUN server files first then client files
+Implement name resolution protocol
+
