@@ -4,7 +4,8 @@ import xmlrpc.client
 proxy = xmlrpc.client.ServerProxy("http://localhost:8000")
 
 # call the is_prime function on the server
-result = proxy.is_prime(17)
+n = int(input())
+result = proxy.is_prime(n)
 
 # print the result
 print(result)
